@@ -7,8 +7,11 @@ You can click the Preview link to take a look at your changes.
 
 
 <h2 align="left">Hi 👋! My name is Arclinux99 and I'm a fullstack developer, from indonesia
+
 ---
+
 - 🥞 dotfiles for archlinux https://hyprluna.org/docs/main-dots/installation
+
 ###
 
 <div align="center">
