@@ -1,21 +1,5 @@
 
-  
-```css
-┌[iamsankalp@git]-(~)
-└> loading........
-```
 
- ```css
-  iamsankalp@GitHub
-  ----------------------------------------------------
-  Name: Arclinux9
-  From: Nepal
-  Intrests: ["CyberSecurity", "Linux", "AI-ML" "Foss"]
-  ```
-
-
-
-### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -25,10 +9,10 @@
 <br><br>
 <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=S4NKALP&theme=react&border=61dafb&hide_border=true" alt="S4NKALP" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=ARCLINUX9P&theme=react&border=61dafb&hide_border=true" alt="ARCLINUX9" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=S4NKALP&include_all_commits=true&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ARCLINUX9&include_all_commits=true&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" />
     </a>
 </div>
 <div align=center>
